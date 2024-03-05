@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India, A final year CSE student. 😄</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmit02&label=Profile%20views&color=0e75b6&style=flat" alt="emmit02" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=emmit02&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif)" alt="emmit02" /> </p>
 
 - 🌱 I’m currently learning **Springboot**
 
