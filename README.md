@@ -38,4 +38,3 @@
 </div>
 
 ![VisitorCount](https://profile-counter.glitch.me/emmit02/count.svg)
-![snake gif](https://github.com/emmit02/emmit02/blob/output/github-contribution-grid-snake.svg)
