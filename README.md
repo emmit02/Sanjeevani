@@ -36,5 +36,6 @@
   </table>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmit02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
 </div>
+
 ![VisitorCount](https://profile-counter.glitch.me/emmit02/count.svg)
 ![snake gif](https://github.com/emmit02/emmit02/blob/output/github-contribution-grid-snake.svg)
